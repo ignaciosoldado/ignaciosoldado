@@ -1,8 +1,8 @@
-# 👋 Ignacio Javier Ladrón de Guevara Soldado
+# 👋🏻 Ignacio Javier Ladrón de Guevara Soldado
 
-**Ético de Datos | Filósofo | Desarrollador en Formación**
+**Ético de Datos | Filósofo | Divulgador**
 
-Graduado en **Filosofía** (Lógica y Filosofía de la Ciencia) por la UMA y la USAL. Actualmente en **Campus 42**, donde estoy aprendiendo a pensar como ingeniero. Mi enfoque: **combinar rigor lógico y pensamiento crítico con desarrollo de software** para construir sistemas de datos más justos, transparentes y responsables.
+Graduado en **Filosofía** (Lógica y Filosofía de la Ciencia) por la Universidad de Málaga (SICUE en la Universidad de Salamanca). Actualmente en **Campus 42**, donde estoy aprendiendo a pensar como programador. Mi enfoque: **combinar rigor lógico y pensamiento crítico con desarrollo de software** para construir sistemas de datos más justos, transparentes y responsables.
 
 Creo que la tecnología sin ética es solo automación. Me mueve entender no solo *cómo* funcionan los sistemas, sino *por qué* deberían funcionar de cierta manera.
 
@@ -10,15 +10,15 @@ Creo que la tecnología sin ética es solo automación. Me mueve entender no sol
 
 ## 🚀 Sobre Mí
 
-👩‍💻 **Actualmente estoy trabajando en:** Proyectos de Campus 42 enfocados en C y estructuras de datos fundamentales
+🧑🏻‍💻 **Actualmente estoy trabajando en:** Proyectos de Campus 42 enfocados en C y ofrecer cursos de enseñanza sobre alfabetización digital.
 
-🧠 **Actualmente estoy aprendiendo:** Ética de Datos, privacidad algorítmica y análisis crítico de sesgos en ML
+🧠 **Actualmente estoy aprendiendo:** Ética de Datos, programación en C y análisis crítico de sesgos en ML.
 
-👯‍♀️ **Busco colaborar en:** Proyectos open source relacionados con transparencia, privacidad y ética en tecnología
+👥 **Busco colaborar en:** Proyectos open source relacionados con transparencia, privacidad y ética en tecnología.
 
-💬 **Pregúntame sobre:** Filosofía de la lógica, fundamentos de programación, o por qué la ética de datos importa
+💬 **Pregúntame sobre:** Filosofía de la lógica, fundamentos de programación, o por qué la ética de datos importa.
 
-📫 **Cómo contactarme:** [LinkedIn](https://www.linkedin.com/in/ignacio-soldado/) | ignacio.soldado@email.com
+📫 **Cómo contactarme:** [LinkedIn](https://www.linkedin.com/in/ignacio-soldado/) | ignacio.soldado@email.com.
 
 ⚡️ **Dato curioso:** ENTJ-T que prefiere Vim a cualquier IDE. Mi editor de texto es mi lienzo de pensamiento.
 
