@@ -26,7 +26,9 @@ Mi enfoque: **combinar rigor lógico y pensamiento crítico con desarrollo de so
 | :--- | :--- | :--- | :--- |
 | [Piscina Campus 42](https://github.com/ignaciosoldado/42-piscina) | Intensive bootcamp projects focused on C and Shell | Bash, C | 📋 Planned |
 | [Elements of AI](https://github.com/ignaciosoldado/elements-ai-helsinki) | Summary and insights on AI fundamentals (University of Helsinki) | AI Theory, Ethics | 🏗️ In Progress |
+| [Cybersecurity - Big School](https://github.com/ignaciosoldado/learning-cibersec-big-school) | Training on ethical hacking and security from Big School | Linux, Cibersecurity | 🏗️ In Progress |
 | [Cybersecurity - El Pingüino de Mario](https://github.com/ignaciosoldado/learning-cibersec-big-school) | Training on ethical hacking and security from Big School | Linux, Cibersecurity | 🏗️ In Progress |
+| [Occupational Risk Prevention](https://github.com/ignaciosoldado/OSH) | Documentation and protocols for health and safety standards in work environments | Regulatory Framework, ISO 45001 | 🏗️ In Progress |
 
 *Más proyectos próximamente. Mantente atento a este espacio.*
 
